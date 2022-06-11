@@ -54,15 +54,6 @@
         "imgDir": "/images/"
     },
     {
-        "title": "Radio City Music Hall During Night Time",
-        "date": "October 11, 2020",
-        "credit": "Photo by St John's Communication Team",
-        "linkToAuthor": "https://sjbdcs.org/author/communications-team",
-        "src": "music-hall.jpg",
-        "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
-    },
-    {
         "title": "Students in class",
         "date": "October 10, 2020",
         "credit": "Photo by St John's Communication Team",
@@ -72,7 +63,7 @@
         "imgDir": "/images/"
     },
     {
-        "title": "The school Choir",
+        "title": "The School Choir",
         "date": "October 9, 2020",
         "credit": "Photo by St John's Communication Team",
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
@@ -86,15 +77,6 @@
         "credit": "Photo by St John's Communication Team",
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "d4.jpg",
-        "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
-    },
-    {
-        "title": "Students",
-        "date": "October 15, 2020",
-        "credit": "Photo by St John's Communication Team",
-        "linkToAuthor": "https://sjbdcs.org/author/communications-team",
-        "src": "v.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
     }
