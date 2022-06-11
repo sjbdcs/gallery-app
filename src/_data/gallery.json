@@ -9,9 +9,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "Flag Day Celebration",
@@ -23,9 +23,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "Culture Day Celebrations",
@@ -37,9 +37,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "Sport Festival",
@@ -51,9 +51,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "Celebrating Teachers Day",
@@ -65,9 +65,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "Award Ceremony in the presence of his holiness",
@@ -79,9 +79,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "Students in class",
@@ -93,9 +93,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "The School Choir",
@@ -107,9 +107,9 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     },
     {
         "title": "The Holy Liturgy",
@@ -121,8 +121,8 @@
         "imgDir": "/images/"
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
-        "class": "my-img",
-        "width": 1024,
-        "height": 768
+        "class": "gallery-photos",
+        "width": 768,
+        "height": 600
     }
 ]
