@@ -5,12 +5,12 @@
             <a class="home-button" href="/">{{ site.author.firstName }} {{ site.author.lastName }}</a>
             <p class="home-about">{{ site.author.about }}</p>
         </div>
-        <a class="hire-me" href="https://sjbdcs.org">Home</a>
+        <a class="home" href="https://sjbdcs.org">Home</a>
     </div>
     <nav class="nav-main">
         <ul class="nav-list">
             {% for link in navigation %}
-            <li><a href="{{ link.url | url }}" class="link">{{ link.title }}</a></li>
+            <li><a href="{{ link.url | url }}" class="link">Index</a></li>
             {% endfor %}
             <li><a class="link" href="https://sjbdcs.org/contact">Submit</a></li>
         </ul>
