@@ -10,7 +10,7 @@
     <nav class="nav-main">
         <ul class="nav-list">
             {% for link in navigation %}
-            <li><a href="{{ link.url | url }}" class="link">Index</a></li>
+            <li><a href="{{ link.url | url }}" class="link">{{ link.title }}</a></li>
             {% endfor %}
             <li><a class="link" href="https://sjbdcs.org/contact">Submit</a></li>
         </ul>
