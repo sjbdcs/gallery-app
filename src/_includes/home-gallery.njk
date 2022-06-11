@@ -2,9 +2,7 @@
   <ul class="image-grid">
     {% for image in gallery %}
     <li class="image-container">
-        <a href="/images/{{ image.src | slug }}" aria-label="Gallery image {{ image.title }}">
-            {{ image.src }}
-        </a>
+        <img href="/images/{{ image.src | slug }}" aria-label="Gallery image {{ image.title }}">           
     </li>
     {% endfor %}
   </ul>
