@@ -6,7 +6,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "graduation.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -20,7 +20,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "fd2.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -34,7 +34,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "f2.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -48,7 +48,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "sp.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -62,7 +62,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "f1.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -76,7 +76,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "e1.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -90,7 +90,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "class.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -104,7 +104,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "c4.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
@@ -118,7 +118,7 @@
         "linkToAuthor": "https://sjbdcs.org/author/communications-team",
         "src": "d4.jpg",
         "alt": "Image couldn't load, please reload the page",
-        "imgDir": "/images/"
+        "imgDir": "/images/",
         "widths": [320, 640, 1024],
         "sizes": "(min-width: 450px) 33.3vw, 100vw",
         "class": "gallery-photos",
