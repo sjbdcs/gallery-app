@@ -7,6 +7,11 @@
         "src": "graduation.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "Flag Day Celebration",
@@ -16,6 +21,11 @@
         "src": "fd2.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "Culture Day Celebrations",
@@ -25,6 +35,11 @@
         "src": "f2.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "Sport Festival",
@@ -34,6 +49,11 @@
         "src": "sp.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "Celebrating Teachers Day",
@@ -43,6 +63,11 @@
         "src": "f1.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "Award Ceremony in the presence of his holiness",
@@ -52,6 +77,11 @@
         "src": "e1.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "Students in class",
@@ -61,6 +91,11 @@
         "src": "class.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "The School Choir",
@@ -70,6 +105,11 @@
         "src": "c4.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     },
     {
         "title": "The Holy Liturgy",
@@ -79,5 +119,10 @@
         "src": "d4.jpg",
         "alt": "Image couldn't load, please reload the page",
         "imgDir": "/images/"
+        "widths": [320, 640, 1024],
+        "sizes": "(min-width: 450px) 33.3vw, 100vw",
+        "class": "my-img",
+        "width": 1024,
+        "height": 768
     }
 ]
