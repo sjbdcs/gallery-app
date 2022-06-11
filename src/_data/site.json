@@ -1,29 +1,27 @@
 {   
     "author": {
-        "firstName": "John",
-        "lastName": "Smith",
-        "email": "foobar@gmail.com",
-        "twitterHandle": "@tannerdolby",
-        "about": "Freelance photographer interested in film and cinematography"
+        "firstName": "Communications",
+        "lastName": "team",
+        "email": "communications@sjbdcs.org",
+        "twitterHandle": "@sjbdcs",
+        "about": "Photos from our events and programs by our communications team"
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "twitter": "https://twitter.com/sjbdcs",
+        "linkedin": "https://linkedin.com/company/sjbdcs"
     },
     "pageMetadata": {
         "home": {
-            "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
+            "content": "A photo gallery from St John Baptist De La Salle Catholic School!"
         },
         "gallery": {
-            "content": "A collection of images from John Smith's gallery."
+            "content": "A collection of images from our school."
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "from our school's gallery."
         },
         "about": {
-            "content": "A page about John Smith, and photography. This template is currently the default version so add your own about me page info here."
+            "content": "A photo gallery from St John Baptist De La Salle Catholic School!"
         }
 
     }
